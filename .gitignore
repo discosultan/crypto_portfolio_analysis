@@ -102,3 +102,4 @@ ENV/
 
 # My stuff
 my_tradesheet.csv
+.vscode/
